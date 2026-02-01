@@ -12,7 +12,7 @@ Chaque challenge présente une vulnérabilité courante dans les smart contracts
 
 - **Solidity** - Langage des smart contracts
 - **Hardhat** - Framework de développement
-- **Ethers.js** - Interaction avec la blockchain
+- **Viem** - Interaction avec la blockchain
 - **Sepolia Testnet** - Réseau de test
 
 ## 📁 Structure du projet
